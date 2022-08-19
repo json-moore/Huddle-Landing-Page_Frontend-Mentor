@@ -1,0 +1,707 @@
+body {
+    margin: 0px;
+}
+.header {
+    width: 100vw;
+}
+
+/* ************************************************ */
+/* "Try it free" button */
+.btn {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: hsl(322, 100%, 66%);
+    color: hsl(322, 100%, 66%);
+    font-family: 'Open Sans', sans-serif;
+    float: right;
+    margin: 60px;
+}
+.btn:hover {
+    background-color: hsl(323, 100%, 81%);
+}
+/* button end */
+/* ************************************************ */
+
+.huddle-logo {
+    margin: 60px;
+}
+
+/* ************************************************ */
+/* Center informational text */
+.center-text-community h1 {
+    text-align: center;
+    font-size: 49px;
+    font-family: 'Poppins', sans-serif;
+}
+.center-text-community p {
+    text-align: center;
+    font-size: 21.5px;
+    font-family: 'Open Sans', sans-serif;
+}
+.center-text-community {
+    margin-top: 130px;
+}
+/* Text end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* "Get started..." button2 */
+.btn2 {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    border-radius: 100px;
+    background-color: hsl(322, 100%, 66%);
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 0px 5px 10px rgb(187, 187, 187);
+}
+.button2 {
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+}
+.button2 a:hover {
+    background-color: hsl(323, 100%, 81%);
+}
+/* button2 end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Mockups Img */
+.mockups-img {
+    justify-content: center;
+    display: flex;
+    margin-top: 110px;
+}
+/* Mockups end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* informational section */
+.informational__section {
+    display: flex;
+    justify-content: center;
+}
+.communities-formed {
+    padding: 130px;
+    font-size: 50px;
+}
+.communities-formed p {
+    font-size: 25px;
+    text-align: center;
+    margin: 17px;
+    font-family: 'Open Sans', sans-serif;
+    opacity: 40%;
+}
+.communities-formed h1 {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.messages-sent {
+    padding: 130px;
+    font-size: 50px;
+}
+.messages-sent p {
+    font-size: 25px;
+    text-align: center;
+    margin: 17px;
+    font-family: 'Open Sans', sans-serif;
+    opacity: 40%;
+}
+.messages-sent h1 {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+/* info. section end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Grow together section */
+.grow-together-section {
+    justify-content: center;
+    display: flex;
+    gap: 150px;
+    background-color:hsl(207, 100%, 98%);
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.grow-txt {
+    margin-top: 130px;
+    font-size: 17px;
+}
+.grow-txt h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+.grow-txt p {
+    font-family: 'Open Sans', sans-serif;
+}
+.svgdesktop-1 {
+    font-size: 0px;
+}
+/* Grow together section end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Flowing conversations section */
+.flowing-section {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    padding-top: 200px;
+    padding-bottom: 110px;
+}
+.flowing-txt {
+    padding-top: 115px;
+}
+.flowing-txt h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px
+}
+.flowing-txt p {
+    font-family: 'Open Sans', sans-serif;
+}
+/* Flowing section end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Users section */
+.users-section {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    background-color:hsl(207, 100%, 98%);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.user-txt {
+    padding-top: 110px;
+}
+.user-txt h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+.user-txt p {
+    font-family: 'Open Sans', sans-serif;
+}
+/* Users section end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* SVG desktop decor - top2 */
+.svgtop-desktop2 {
+    font-size: 0px;
+}
+/* SVG desktop decor - top2 end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Ready Section */
+.ready-section {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 120px;
+    padding-bottom: 210px;
+}
+.ready-button {
+    font-family: 'Open Sans', sans-serif;
+}
+.ready-txt {
+    margin-bottom: 60px;
+    font-size: 1.3rem;
+}
+.ready-button a {
+    text-decoration: none;
+    color: white;
+    background-color: hsl(322, 100%, 66%);
+    font-size: 18px;
+    padding: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    border-radius: 100px;
+    box-shadow: 0px 5px 10px rgb(187, 187, 187);
+}
+.ready-button a:hover {
+    background-color: hsl(323, 100%, 81%);
+}
+/* Ready Section end */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Footer section */
+.footer-svg {
+    font-size: 0px;
+}
+.footer {
+    background-color: hsl(192, 100%, 9%);
+    display: flex;
+    gap: 170px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* ************************************************ */
+/* Left field properties */
+.left-txt-field {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 120px;
+}
+.huddle-logo2 {
+    margin-bottom: 10px;
+}
+.phone-container {
+    margin-bottom: 20px;
+    margin-top: 35px;
+}
+.phone-container img {
+    float: left;
+}
+.phone-container p {
+    transform: translateY(-11%);
+    padding-left: 37px;
+}
+.email-container img {
+    float: left;
+}
+.email-container p {
+    transform: translateY(-22%);
+    padding-left: 37px;
+}
+.social-logos {
+    margin-top: 75px;
+}
+.social-logos img {
+    filter: invert(100%);
+    margin-right: 20px;
+}
+
+/* ************************************************ */
+/* Right field properties */
+.right-txt-field {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 160px;
+}
+.right-txt-field h1 {
+    font-size: 26px;
+}
+.right-txt-field p {
+    margin-bottom: 40px;
+}
+
+/* ************************************************ */
+/* Input field */
+.input-area {
+    display: flex;
+}
+.input-field input {
+    height: 47px;
+    width: 340px;
+    border-radius: 7px;
+    border-color: white;
+    font-size: 19px;
+}
+.input-button a {
+    font-size: 17px;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border-radius: 6px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 40px;
+    display: flex;
+    text-decoration: none;
+}
+.input-button a:hover {
+    background-color: hsl(323, 100%, 81%);
+}
+/* Input field end */
+/* Footer section end */
+/* ************************************************ */
+
+
+/* ********************************************************************************************************************************* */
+/* Mobile Responsivness /// Mobile Screen Size 375px */
+@media screen and (max-width: 375px) {
+/* Header */
+    .huddle-logo {
+        height: 17px;
+        margin-left: 23px;
+        margin-right: 0%;
+        margin-bottom: 0%;
+        margin-top: 30px;
+    }
+    .btn {
+        margin-left: 0%;
+        font-size: 10px;
+        padding: 5px 17px 5px 17px;
+        margin-top: 25px;
+        margin-right: 25px;
+    }
+/* Header End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Flowing Section */
+    .flowing-section {
+        display: block;
+    }
+    .flowing-section img {
+        height: 250px;
+    }
+    .flowing-txt {
+        text-align: center;
+        padding-top: 80px;
+    }
+    .flowing-txt h1 {
+        font-size: 20px;
+    }
+    .flowing-txt p {
+        font-size: 14px;
+    }
+    .flowing-img {
+        justify-content: center;
+        display: flex;
+    }
+    .flowing-section img {
+        height: 190px;
+    }
+    .flowing-section {
+        padding-top: 150px;
+    }
+/* Flowing Section End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Grow Together Section */
+    .grow-together-section {
+        display: grid;
+        grid-template-rows: 160px 160px;
+    }
+    .grow-together-img-container {
+        justify-content: center;
+        display: flex;
+        grid-row-start: 1;
+    }
+    .grow-txt {
+        margin-top: 0px;
+        text-align: center;
+    }
+    .grow-txt h1 {
+        font-size: 20px
+    }
+    .grow-txt p {
+        font-size: 14px;
+    }
+    .grow-together-section {
+        display: block;
+    }
+    .grow-together-section img {
+        height: 250px;
+    }
+    .grow-together-img-container img {
+        height: 210px;
+    }
+    .grow-together-section {
+        gap: 110px;
+        padding-top: 85px;
+        padding-bottom: 40px;
+    }
+/* Grow Together Section End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Footer Section */
+    .footer {
+        display: block;
+    }
+    .footer {
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        padding: 0px;
+        gap: 20px;
+        justify-content: center;
+    }
+    .right-txt-field {
+        grid-row-start: 1;
+    }
+    .right-txt-field h1 {
+        font-size: 19px;
+    }
+    .right-txt-field p {
+        font-size: 14px;
+        margin-top: 19px;
+        line-height: 25px;
+    }
+    .left-txt-field p {
+        font-size: 14px;
+        margin-top: 5px;
+        margin-bottom: 50px;
+        line-height: 25px;
+    }
+    .huddle-logo2 {
+        height: 31px;
+        margin-bottom: 5px;
+        margin-top: 25px;
+    }
+    .phone-container p {
+        margin-bottom: 20px;
+    }
+    .email-container p {
+        margin-bottom: 45px;
+    }
+    .social-logos {
+        margin-top: 5px;
+    }
+    .social-logos img {
+        height: 25px;
+        margin-right: 12px;
+        margin-bottom: 40px;
+    }
+    .input-button {
+        position: absolute;
+        margin-top: 70px;
+        margin-left: 125px;
+    }
+    .input-field input {
+        width: 315px;
+    }
+    .right-txt-field {
+        margin: 0px;
+    }
+    .communities-formed h1 {
+        font-size: 75px;
+    }
+    .messages-sent h1 {
+        font-size: 75px;
+    }
+    .left-txt-field {
+        margin: 0px;
+    }
+/* Footer Section End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Users Section */
+    .users-section {
+        display: block;
+    }
+    .users-section {
+        display: grid;
+        grid-template-rows: 200px 200px;
+    }
+    .users-img {
+        grid-row-start: 1;
+        justify-content: center;
+        display: flex;
+    }
+    .user-txt {
+        padding: 0px;
+        text-align: center;
+    }
+    .user-txt h1 {
+        font-size: 20px;
+    }
+    .user-txt p {
+        font-size: 14px;
+    }
+    .users-section img {
+        height: 200px;
+    }
+    .users-section {
+        gap: 60px;
+    }
+    .users-section img {
+        height: 250px;
+    }
+/* Users Section End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Informational Section */
+    .informational__section {
+        display: block;
+    }
+    .mockups-img img {
+        height: 215px;
+        margin-bottom: 80px;
+    }
+    .center-text-community h1 {
+        font-size: 25px;
+    }
+    .center-text-community p {
+        font-size: 14px;
+    }
+    .btn2 {
+        font-size: 13px;
+        padding: 12px 40px 12px 40px;
+        font-weight: 600;
+    }
+    .communities-formed {
+        padding: 20px;
+    }
+    .communities-formed img {
+        margin-left: 85px;
+    }
+    .communities-formed h1 {
+        font-size: 60px;
+    }
+    .communities-formed p {
+        font-size: 15px;
+        margin-top: 5px;
+    }
+    .messages-sent {
+        padding: 0%;
+    }
+    .messages-sent img {
+        margin-left: 105px;
+    }
+    .messages-sent h1 {
+        font-size: 55px;
+        text-align: center;
+    }
+    .messages-sent p {
+        font-size: 15px;
+        margin-top: 5px;
+    }
+    .center-text-community {
+        margin-top: 110px;
+    }
+/* Informational Section End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Ready Section */
+    .ready-section h1 {
+        font-size: 23px;
+    }
+    .ready-button a {
+        font-size: 13px;
+        padding: 12px 40px 12px 40px;
+        font-weight: 600;
+    }
+    .ready-section {
+        padding-top: 80px;
+    }
+/* Ready Section End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Desktop Text /// Set to not show for mobile */
+    .primary-comm-text {
+        display: none;
+    }
+    .primary-newstext {
+        display: none;
+    }
+    .primary-growtxt {
+        display: none;
+    }
+    .primary-flowtxt {
+        display: none;
+    }
+    .primary-usertxt {
+        display: none;
+    }
+    .primary-messagetxt {
+        display: none;
+    }
+    .primary-buildtxt {
+        display: none;
+    }
+/* Desktop Text End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Desktop SVG's */
+    .svgdesktop-1 {
+        display: none;
+    }
+    .svgtop-desktop2 {
+        display: none;
+    }
+    .svgdesktop-bottom-2 {
+        display: none;
+    }
+    .svgbottom-desktop2 {
+        display: none;
+    }
+    .footer-svg {
+        display: none;
+    }
+/* Desktop SVG's End */
+/* ************************************************ */
+
+/* ************************************************ */
+/* Mobile SVG's */
+    .rpsv-growsvg1 {
+        font-size: 0px;
+    }
+    .rpsv-usersvg1 {
+        font-size: 0px;
+    }
+    .rpsv-footersvg1 {
+        font-size: 0px;
+    }
+/* Mobile SVG's End */
+/* ************************************************ */
+}
+
+/* ************************************************ */
+/* Desktop Media Query /// Desktop Screen Size 1440px /// Meant to prevent responsive imgs/text from appearing */
+@media screen and (min-width: 1440px) {
+/* Responsive text */
+    .altrpsv-comm-text {
+        display: none;
+    }
+    .alt-rpsv-newstext {
+        display: none;
+    }
+    .rpsv-growtxt {
+        display: none;
+    }
+    .rpsv-buildtxt {
+        display: none;
+    }
+    .rpsv-usertxt {
+        display: none;
+    }
+    .rpsv-messagetxt {
+        display: none;
+    }
+    .rpsv-flowtxt {
+        display: none;
+    }
+/* ************************************************ */
+/* Responsive SVG's */
+    .rpsv-footersvg1 {
+        display: none;
+    }
+    .rpsv-growsvg1 {
+        display: none;
+    }
+    .rpsv-usersvg1 {
+        display: none;
+    }
+    .rpsv-growsvg2 {
+        display: none;
+    }
+    .rpsv-usersvg2 {
+        display: none;
+    }
+}
+/* Mobile Responsivness end */
+/* ************************************************ */
